@@ -1,0 +1,3 @@
+<div id="ft">
+    <div class="footerText">Hubbub -- Social Networking for Widgets, Inc. ${sessionScope.user.username} (${sessionScope.user.id})</div>
+</div>
